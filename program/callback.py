@@ -21,7 +21,7 @@ async def cbstart(_, query: CallbackQuery):
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
 
-🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
+🛠 [🄳🄴🄰🄳🄿🄾🄾🄻](https://t.me/DeadPooL_IN) **if you have any problem contact**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url="https://t.me/cl_me_logesh"
+                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url="https://t.me/DeadPooL_IN"
                     )
                 ],
             ]
