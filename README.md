@@ -78,7 +78,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/LOGI-LAP/video-player # clone the repo.
+git clone https://github.com/DeadPooL-IN/DP_StreamBot # clone the repo.
 cd video-player
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
