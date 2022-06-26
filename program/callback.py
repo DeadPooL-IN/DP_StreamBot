@@ -35,7 +35,7 @@ async def cbstart(_, query: CallbackQuery):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤ owner", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("❤ Owner", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url="https://t.me/DeadPooL_IN"
+                        "🄳🄴🄰🄳🄿🄾🄾🄻", url="https://t.me/DeadPooL_IN"
                     )
                 ],
             ]
@@ -61,11 +61,11 @@ async def cbguides(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""❓ **Basic Guide for using this bot:**
 
-1.) **first, add me to your group.**
-2.) **then promote me as admin and give all permissions except anonymous admin.**
-3.) **add @{ASSISTANT_NAME} to your group or type /userbotjoin to invite her.**
-4.) **turn on the video chat first before start to play video.**
-5.) **all the command list you can see on » 📚 Commands button, find it on start home, tap the » Go Back button below.**
+1.) **First, Add me to your Group.**
+2.) **Then promote me as admin and give all permissions except anonymous admin.**
+3.) **Add @{ASSISTANT_NAME} to your group or type /userbotjoin to invite her.**
+4.) **Turn on the video chat first before start to play video.**
+5.) **All the command list you can see on » 📚 Commands button, find it on start home, tap the » Go Back button below.**
 
 💡 **If you have a follow-up questions about this bot, you can tell it on my support chat here: @{GROUP_SUPPORT}**
 
